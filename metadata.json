@@ -1,0 +1,8 @@
+{
+  "name": "GLOW FIRST",
+  "description": "Smart single-profile Android gaming macro with floating trigger overlay and Accessibility hold-to-tap engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

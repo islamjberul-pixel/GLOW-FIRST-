@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GLOW FIRST</string>
+    <string name="app_subtitle">SMART GAMING MACRO</string>
+    <string name="accessibility_service_label">GLOW FIRST Tap Engine</string>
+    <string name="accessibility_service_description">Executes hold-to-tap automated screen taps at your configured keymap coordinates when you press and hold the floating GLOW FIRST Trigger overlay.</string>
+    <string name="notification_channel_name">GLOW FIRST Macro Service</string>
+    <string name="notification_channel_description">Keeps the floating Trigger overlay active while gaming.</string>
+    <string name="notification_overlay_title">GLOW FIRST Trigger Active</string>
+    <string name="notification_overlay_text">Hold the floating Trigger circle to tap at %1$d CPS. Tap Stop to hide overlay.</string>
+    <string name="action_stop_overlay">Stop Overlay</string>
+    <string name="error_overlay_permission_missing">Display over other apps permission is required to show the floating Trigger.</string>
+    <string name="error_accessibility_disabled">GLOW FIRST Accessibility Service is disabled. Enable it in Settings to perform taps.</string>
+    <string name="error_screenshot_failed">Could not load the selected screenshot. Please choose a valid image.</string>
+    <string name="error_invalid_cps">Enter a valid CPS value between 1 and 30.</string>
+    <string name="error_macro_not_configured">Macro configuration is missing. Please select a screenshot and save your keymap first.</string>
+    <string name="error_gesture_dispatch_failed">Android rejected the tap gesture. Ensure the Accessibility Service is active and no system dialog is blocking input.</string>
+</resources>
